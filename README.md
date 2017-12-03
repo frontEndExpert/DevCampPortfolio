@@ -5,20 +5,21 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+- list item 1
+- item 2
+- item 3
+- item 4
 
-* System dependencies
+### code sample
 
-* Configuration
+```ruby
+def my_own_method
+    put "put it here"
+end
+```
 
-* Database creation
+```javascript
+alert('Hello there!!!')
+```
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
